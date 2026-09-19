@@ -7,8 +7,3 @@ log/
 __pycache__/
 *.pyc
 *.egg-info/
-
-# upstream UR repos — cloned from Universal Robots, not ours
-src/Universal_Robots_ROS2_Driver/
-src/Universal_Robots_ROS2_Description/
-src/Universal_Robots_ROS2_GZ_Simulation/
